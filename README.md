@@ -16,13 +16,13 @@ Created by a passionate 13-year-old cybersecurity enthusiast, this tool proves a
 
 Then follow the interactive prompts:
 
-Enter target IP address: 192.168.1.1
+Enter target IP address: 192.168.1.1 (e.g)
 🔧 Scan mode:
   [1] Ports 1 to 1024
   [2] Custom ports (e.g., 22,80,443)
   [3] Full scan (1 to 65535) 🧨💣💥
 Select scan mode (1/2/3): 2
-⏱️ Enter timeout in seconds (default = 2): 1
+⏱️ Enter timeout in seconds (default = 2): 1 (e.g)
 
 Watch the scan results come in live! 🕵️‍♂️🔍
 
@@ -45,6 +45,8 @@ Despite his young age, Mohammed is already diving deep into the world of hacking
 Run the script from your terminal:
 
 ```bash
+git clone https://github.com/CodHard845/PortBusterX.git
+cd PortBusterX
 python portbusterx.py
 
 
