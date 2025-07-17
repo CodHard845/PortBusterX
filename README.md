@@ -1,7 +1,7 @@
 # 🚀 PortBusterX
 
 **PortBusterX** is a lightweight Python TCP port scanner designed for quick and customizable scanning of TCP ports on any target host.  
-Created by a passionate 13-year-old cybersecurity enthusiast, this tool proves age is just a number when it comes to hacking skills! 🧑‍💻⚡
+Created by Mohammed a passionate 13-year-old cybersecurity enthusiast, this tool proves age is just a number when it comes to hacking skills! 🧑‍💻⚡
 
 ---
 
