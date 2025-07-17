@@ -14,15 +14,6 @@ Created by a passionate 13-year-old cybersecurity enthusiast, this tool proves a
 - 📟 Clear and easy-to-understand output  
 - 🚀 No external dependencies — pure Python standard library  
 
----
-
-## 💻 Usage
-
-Run the script from your terminal:
-
-```bash
-python portbusterx.py
-
 Then follow the interactive prompts:
 
 Enter target IP address: 192.168.1.1
@@ -44,4 +35,19 @@ Use responsibly — don’t be that hacker who wakes up to the FBI at the door! 
 👤 About the Author
 This project was created by Mohammed, a 13-year-old cyber security enthusiast from Osny.
 Despite his young age, Mohammed is already diving deep into the world of hacking, coding, and cybersecurity — proving that passion beats age every time! ⚔️🛡️
+
+
+
+---
+
+## 💻 Usage
+
+Run the script from your terminal:
+
+```bash
+python portbusterx.py
+
+
+
+
 
